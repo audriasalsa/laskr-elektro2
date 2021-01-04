@@ -1,0 +1,4 @@
+1. Apabila ketika diekspor ada query yang ".....stand-in for view" tetapi cuma:
+   CREATE XXXX(
+   ) <-- Tidak ada kolomnya,
+   Maka berarti VIEW tersebut ada yang berubah kolom di tabel aslinya.
